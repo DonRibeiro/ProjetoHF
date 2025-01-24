@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    background-color:#67dffdbb;
+  }
+  
+  header{
+    color: white;
+    text-align: center;
+  }
+  
+  section{
+    background-color: white;
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+  }
+  
+  #res{
+    padding: 10px;
+  }
+  
+  #foto{
+    width: 180px;
+    height: 180px;
+    box-shadow: 5px 5px 6px black;
+  }
+  
+  footer{
+    text-align: center;
+  }
